@@ -14,4 +14,14 @@ abstract: |
 bibliography: foo
 ---
 
-@NewellSimon1972a is very nice [@ChalnickBillman1988a].
+# Introduction
+@NewellSimon1972a wrote a paper [@ChalnickBillman1988a].
+
+## Subheading
+
+Words.
+
+### Subsubheading
+
+More words.
+
